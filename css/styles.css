@@ -3,7 +3,6 @@
   width: 100%;
 
   overflow-x: hidden;
-    scrollbar-color: yellow #800080;
 }
 
 p{
@@ -93,7 +92,9 @@ margin-top: 0px;
 
 
 }
-
+.precio{
+  margin-left: -20px;
+}
 
 #scroll {
     position:fixed;
