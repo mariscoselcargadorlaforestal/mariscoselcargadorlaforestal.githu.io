@@ -1,7 +1,7 @@
 window.sr = ScrollReveal();
-
 	sr.reveal('.logo', {
 		duration: 1500, //tiempo
+		delay:2000,
 		origin: 'bottom', //origen
 		distance: '-50px', //distancia
 		
@@ -10,6 +10,7 @@ window.sr = ScrollReveal();
 	}); 
 	sr.reveal('.menu', {
 		duration: 1500, //tiempo
+		delay:2000,
 		origin: 'bottom', //origen
 		distance: '-50px' //distancia
 
@@ -38,6 +39,7 @@ window.sr = ScrollReveal();
 
 	sr.reveal('.table-responsive', {
 		duration: 1500, //tiempo
+		delay:1700,
 		origin: 'bottom', //origen
 		distance: '-100px', //distancia
 		
